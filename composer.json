@@ -11,10 +11,8 @@
         "ext-curl": "*",
         "ext-openssl": "*",
         "ext-soap": "*",
-        "ext-mcrypt" : "*",
-        "php": ">=5.2.3",
-        "ext-http" : "*",
-        "minishlink/web-push": "^1.0"
+        "php": "^7.3.0",
+        "minishlink/web-push": "6.0.5"
     },
     "autoload": {
         "files": [
